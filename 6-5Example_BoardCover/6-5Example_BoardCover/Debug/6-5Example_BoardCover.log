@@ -1,0 +1,7 @@
+﻿  source.cpp
+c:\users\dorol2\algorithm\algorithm\6-5example_boardcover\6-5example_boardcover\source.cpp(21): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dorol2\algorithm\algorithm\6-5example_boardcover\6-5example_boardcover\source.cpp(35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dorol2\algorithm\algorithm\6-5example_boardcover\6-5example_boardcover\source.cpp(37): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dorol2\algorithm\algorithm\6-5example_boardcover\6-5example_boardcover\source.cpp(72): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dorol2\algorithm\algorithm\6-5example_boardcover\6-5example_boardcover\source.cpp(75): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  6-5Example_BoardCover.vcxproj -> C:\Users\dorol2\Algorithm\Algorithm\6-5Example_BoardCover\Debug\6-5Example_BoardCover.exe
