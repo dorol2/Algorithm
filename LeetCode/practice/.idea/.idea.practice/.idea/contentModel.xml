@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\dorol2\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\dorol2\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_practice.1606885569.00" t="ExcludeRecursive" />
+    <e p="C:\Users\dorol2\Algorithm\Algorithm\practice" t="IncludeFlat">
+      <e p="Debug" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="practice" t="IncludeRecursive">
+        <e p="10.cpp" t="Include" />
+        <e p="11.cpp" t="Include" />
+        <e p="12.cpp" t="Include" />
+        <e p="13.cpp" t="Include" />
+        <e p="15.cpp" t="Include" />
+        <e p="16.cpp" t="Include" />
+        <e p="17.cpp" t="Include" />
+        <e p="2.cpp" t="Include" />
+        <e p="23.cpp" t="Include" />
+        <e p="24.cpp" t="Include" />
+        <e p="4.cpp" t="Include" />
+        <e p="5.cpp" t="Include" />
+        <e p="6.cpp" t="Include" />
+        <e p="7.cpp" t="Include" />
+        <e p="8.cpp" t="Include" />
+        <e p="9.cpp" t="Include" />
+        <e p="Debug" t="ExcludeRecursive" />
+        <e p="practice.vcxproj" t="IncludeRecursive" />
+        <e p="소스.cpp" t="Include" />
+      </e>
+      <e p="practice.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
